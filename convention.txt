@@ -1,0 +1,5 @@
+Roles
+Create a role for AWS glue
+ - (gluesnowparkrole - with permission of AmazonS3FullAccess and Cloudwatch) 
+Create a role for snowflake to access S3  
+ - (s3-access-by-snowflake with permission of AmazonS3FullAccess)
